@@ -258,7 +258,7 @@ export default function Home() {
             </Button>
             <Button variant="outline" size="sm" className="w-full sm:w-auto gap-2">
               <FileText size={16} />
-              <a href="https://drive.google.com/file/d/11r_Xghdo-dEgNtQ-z7y5zpUjZThcif9u/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Resume</a>
+              <a href="https://drive.google.com/file/d/1rEPBEN48c6NZY5fWKLcGppmnUNHLSoEe/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resume</a>
             </Button>
           </div>
         </section>
@@ -322,6 +322,7 @@ export default function Home() {
                 <h4 className="font-semibold">Backend Development</h4>
                 <div className="flex flex-wrap gap-2">
                   <Badge variant="secondary" className="text-xs sm:text-sm">Node.js</Badge>
+                  <Badge variant="secondary" className="text-xs sm:text-sm">Spring Boot</Badge>
                   <Badge variant="secondary" className="text-xs sm:text-sm">Express.js</Badge>
                   <Badge variant="secondary" className="text-xs sm:text-sm">Firebase</Badge>
                   <Badge variant="secondary" className="text-xs sm:text-sm">MongoDB</Badge>
